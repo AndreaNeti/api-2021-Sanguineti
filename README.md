@@ -4,4 +4,4 @@ This is the final project of "API-Algorithms and Principles of Informatics", cou
 **Professor:** [Davide Martinenghi](https://martinenghi.faculty.polimi.it/)<br>
 **Final Grade:** 30/30 cum laude
 ## Project Info
-The rules are specified in the specs file you can find [here]
+The rules are specified in the specs file you can find [here](ProvaFinale2021.pdf)
